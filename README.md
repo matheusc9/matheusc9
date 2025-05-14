@@ -1,4 +1,4 @@
-<! -- COPIA Ñ COMÉDIA! -->.
+<!-- COPIA Ñ COMÉDIA -->
 ## Matheus Camargo, Desenvolvedor Front-End Junior
 
 Experience:
