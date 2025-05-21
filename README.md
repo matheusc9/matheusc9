@@ -1,7 +1,5 @@
 <!-- COPIA Ñ COMÉDIA -->
-## Matheus Camargo
-
-#Desenvolvedor Front-End Junior ![License](https://img.shields.io/badge/license-MIT-green)
+## Matheus Camargo, Desenvolvedor Front-End Junior ![License](https://img.shields.io/badge/license-MIT-green)
 
 Experience:
 
