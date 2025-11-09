@@ -1,5 +1,5 @@
 <!-- eai curioso -->
-## Matheus Camargo, Programming Student
+## Matheus Brianesi, Programming Student
 
 Experience/learning:
 
@@ -10,7 +10,6 @@ Experience/learning:
   <img align="center" alt="js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="html" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="tailwind" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
 </div>
   
   ##
