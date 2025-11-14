@@ -1,5 +1,5 @@
 <!-- eai curioso -->
-## Matheus Brianesi, Programming Student
+## Matheus Brianesi, Programming Student 🧑‍💻
 
 Experience/learning:
 
@@ -11,6 +11,8 @@ Experience/learning:
   <img align="center" alt="html" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+Game Hacking lover 👻
   
   ##
  
