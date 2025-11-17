@@ -12,7 +12,7 @@ Experience/learning:
   <img align="center" alt="css" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <p></p>
-Game Hacking lover 👻
+<!-- Game Hacking lover 👻 -->
   
   ##
  
