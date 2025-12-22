@@ -9,14 +9,14 @@
 
 <p align="left">
   <a href="https://github.com/matheusc9">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-matheusc9-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/matheus.cb9">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@matheusc9-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <!--
   <a href="https://www.youtube.com/@matheusc9">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-matheusc9-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   -->
 </p>
@@ -73,7 +73,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Public Repo's)
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=matheusc9&show_icons=true&theme=tokyonight&count_private=true" />
