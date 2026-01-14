@@ -43,8 +43,8 @@
 ## 📊 GitHub Stats (Public Repo's)
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=matheusc9&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusc9&layout=compact&theme=tokyonight" />
+  [![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=matheusc9&theme=gruvbox_duo&hide_border=true)](https://matheusc9.dev/blog/)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusc9&show_icons=true&theme=transparent)](https://matheusc9.dev/blog/)
 </p>
 
 
