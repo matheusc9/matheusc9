@@ -42,10 +42,8 @@
 
 ## 📊 GitHub Stats (Public Repo's)
 
-<p align="left">
-  [![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=matheusc9&theme=gruvbox_duo&hide_border=true)](https://matheusc9.dev/blog/)
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusc9&show_icons=true&theme=transparent)](https://matheusc9.dev/blog/)
-</p>
+[![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=matheusc9&theme=gruvbox_duo&hide_border=true)](https://matheusc9.dev/blog/)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusc9&show_icons=true&theme=transparent)](https://matheusc9.dev/blog/)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=footer"/>
