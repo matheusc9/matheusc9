@@ -33,7 +33,7 @@
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000)](#)
 [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](#)
-[![NuGet](https://img.shields.io/badge/nuget-%23004880.svg?style=for-the-badge&log
+[![NuGet](https://img.shields.io/badge/nuget-%23004880.svg?style=for-the-badge&log)](#)
 <!--[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#) POSTGRESS-->
 
 ---
