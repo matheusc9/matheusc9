@@ -29,6 +29,6 @@
 <!--- [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#) POSTGRESS-->
 
 ## GitHub Stats (public only)
-[!](https://github-readme-streak-stats-weld-one.vercel.app?user=matheusc9&theme=gruvbox_duo&hide_border=true)
+[![Github Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=matheusc9&theme=gruvbox_duo&hide_border=true)]()
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=738185&height=120&section=footer"/>
