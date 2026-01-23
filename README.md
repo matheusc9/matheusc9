@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusc9)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
-## <center>Tech Stack (still learning)
+## <center>Tech Stack (still learning)</center>
 
 ### Frontend
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,7 +28,7 @@
 - [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](#)
 <!--- [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#) POSTGRESS-->
 
-## <center>GitHub Stats (public only)
-<center>[![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=matheusc9&theme=gruvbox_duo&hide_border=true)](https://matheusc9.dev/blog/)</center>
+## GitHub Stats (public only)
+[GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=matheusc9&theme=gruvbox_duo&hide_border=true)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=738185&height=120&section=footer"/>
