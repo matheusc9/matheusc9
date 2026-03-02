@@ -31,13 +31,13 @@ Software Development Student • .NET
 **Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3)
+![CSS3](https://img.shields.io/badge/CSS3-000.svg?style=flat&logo=CSS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript)
 
 **Backend**
 
 ![.NET](https://img.shields.io/badge/.NET-000?style=flat&logo=dotnet)
-![CSharp](https://img.shields.io/badge/CSharp-000?style=flat&logo=csharp)
+![CSharp](https://img.shields.io/badge/CSharp-000?style=flat&logo=c%2B%2B&logoColor=purple)
 
 **Tools**
 
