@@ -17,7 +17,7 @@
 
 ### Backend
 - [![.NET](https://img.shields.io/badge/.NET-black?logo=dotnet)](#)
-- [![C#](https://custom-icon-badges.demolab.com/badge/C%23%23239120-black.svg?logo=cshrp&logoColor=white)](#)
+- [![C#](https://custom-icon-badges.demolab.com/badge/C%23-black.svg?logo=cshrp&logoColor=white)](#)
 
 ### Tool
 - [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#)
