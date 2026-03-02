@@ -26,6 +26,8 @@
 
 ### Database
 - [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](#)
+- [![SQLSERVER](https://img.shields.io/badge/SQL_SERVER-black?logo=msqlserver&logoColor=white)](#)
+- [![Postgres](https://img.shields.io/badge/POSTGRES-black?logo=postgresql&logoColor=white)](#)
 <!--- [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#) POSTGRESS-->
 
 ## GitHub Stats (public only)
