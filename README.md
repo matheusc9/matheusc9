@@ -1,34 +1,68 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=738185&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=738185&size=35&center=true&vCenter=true&width=1000&lines=Matheus+Camargo;)](https://git.io/typing-svg)
+<h1 align="center">Matheus Camargo</h1>
 
-**Software Development Student | .NET**
+<p align="center">
+Software Development Student • .NET
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusc9)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+<p align="center">
+<a href="https://github.com/matheusc9">
+<img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white"/>
+</a>
+<a href="https://discord.com/channels/@me">
+<img src="https://img.shields.io/badge/Discord-000?style=flat&logo=discord&logoColor=white"/>
+</a>
+</p>
 
-## <center>Tech Stack (still learning)</center>
+---
 
-### Frontend
-- ![HTML5](https://img.shields.io/badge/HTML5-black&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/css-black.svg&logo=css&logoColor=white)
-- [![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=white)](#)
-<!-- [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) -->
+## About Me
 
-### Backend
-- [![.NET](https://img.shields.io/badge/.NET-black?logo=dotnet)](#)
-- [![C#](https://custom-icon-badges.demolab.com/badge/C%23-black.svg?logo=cshrp&logoColor=white)](#)
+- Software Development student  
+- Focused on **.NET backend development**
+- Interested in **systems design, game hacking, reverse engineering, APIs and performance.**
+- Currently learning **backend architecture and databases**
 
-### Tool
-- [![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=white)](#)
-- [![Swagger](https://img.shields.io/badge/Swagger-black?logo=insomnia&logoColor=000)](#)
-- [![NuGet](https://img.shields.io/badge/NuGet-black.svg?style=for-the-badge&log)](#)
+---
 
-### Database
-- [![SQLSERVER](https://img.shields.io/badge/SQL_SERVER-black?logo=msqlserver&logoColor=white)](#)
-- [![Postgres](https://img.shields.io/badge/POSTGRES-black?logo=postgresql&logoColor=white)](#)
+## Tech Stack
 
-## GitHub Stats (public only)
-[![Github Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=matheusc9&theme=gruvbox_duo&hide_border=true)]()
+**Frontend**
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=738185&height=120&section=footer"/>
+![HTML5](https://img.shields.io/badge/HTML5-000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript)
+
+**Backend**
+
+![.NET](https://img.shields.io/badge/.NET-000?style=flat&logo=dotnet)
+![CSharp](https://img.shields.io/badge/CSharp-000?style=flat&logo=csharp)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git)
+![Swagger](https://img.shields.io/badge/Swagger-000?style=flat&logo=swagger)
+![NuGet](https://img.shields.io/badge/NuGet-000?style=flat&logo=nuget)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql)
+![SQLServer](https://img.shields.io/badge/SQL_Server-000?style=flat&logo=sqlite)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusc9&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusc9&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats-weld-one.vercel.app?user=matheusc9&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=footer"/>
